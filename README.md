@@ -1,4 +1,4 @@
-## Hey there, my name is Aayush Kumar Sahu
+## Hey there 👋
 🌱 I’m currently learning Web Development(mainly related to APIs and backend works).
 
 <!--
