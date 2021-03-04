@@ -1,0 +1,23 @@
+{
+  "name": "aayushmau5",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aayushmau5/aayushmau5.git"
+  },
+  "keywords": [],
+  "author": "aayushmau5",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aayushmau5/aayushmau5/issues"
+  },
+  "homepage": "https://github.com/aayushmau5/aayushmau5#readme",
+  "dependencies": {
+    "ejs": "^3.1.6"
+  }
+}
