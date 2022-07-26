@@ -1,3 +1,1 @@
-<h1>Hey 👋</h1>
-
-<p>I’m currently learning Web Development.</p>
+![Aayush Sahu](https://github.com/aayushmau5/aayushmau5/blob/master/github.png)
